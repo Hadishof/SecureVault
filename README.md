@@ -57,8 +57,8 @@ SecureVault lets teams store sensitive credentials (API keys, passwords, tokens)
 
 ```
 secure-vault/
-├── .env                         # Your secrets (never commit this)
-├── .env.example                 # Template — copy to .env and fill in
+├── .env                         #
+├── .env.example                 # Template — Create .env like above and copy to it
 ├── .gitignore
 ├── requirements.txt
 ├── README.md
