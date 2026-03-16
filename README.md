@@ -235,7 +235,7 @@ DATABASE_URL=postgresql://postgres:yourpassword@localhost:5432/securevault
 
 ```bash
 git clone https://github.com/Hadishof/SecureVault.git
-cd secure-vault
+cd SecureVault
 ```
 
 ### 2. Configure environment
